@@ -1,0 +1,3 @@
+inlcude somfile
+inlcude templates/test.html
+recursive-include templates *
